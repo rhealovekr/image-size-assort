@@ -1,1 +1,1 @@
-A Perl Script., Sort images. Of specified size.
+A Perl Script. Assort images larger than {size} sorted by specified
